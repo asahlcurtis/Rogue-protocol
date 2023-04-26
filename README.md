@@ -1,6 +1,6 @@
 # Rogue-protocol 1.0
 
-This is a texted based game I have been working on, and v1.0 is still not completly done.
+This is a texted based game about hacking I have been working on, and v1.0 is still not completly done.
 
 So far they'er aren't that many play testers and I am gonna give credit.
 
