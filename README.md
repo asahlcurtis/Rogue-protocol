@@ -1,7 +1,7 @@
 # Rogue-protocol 1.0
 
-This is a texted based game about hacking, I have been working on it for a while, and v1.0 is still not completly done; But I am very close and I think I know how the gameplay will run.
+This is a texted based game about hacking, I have been working on it for a while, and I just finished v1.0 and there will be updated and patches. For the future for any of you who want to download this as a zip for your personal enjoyment and possible editing of the code the exe is in the folder bin/debug/.net7 and then you should see the exe and possibley some other files.
 
-So far they're aren't that many play testers and I am gonna give credit.
+So far they're aren't that many play testers and I am gonna give credit if anyone feels that it is needed.
 
-this is a passion project of mine that I intend to continue building. And hopefully I can release it soon but I don't want to get anyone hopes up.
+this is a passion project of mine that I intend to continue building. And hopefully I can release on steam once I get features like a possible campain up and runing.
