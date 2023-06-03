@@ -1,0 +1,12 @@
+# Note: This file tells git to ignore certain files/folders
+# You can use wildcards - so "*.log" would exclude all .log files, for example
+
+# This is necessary as some files may be for development only
+# As another example, certain files may contain API keys or passwords such as '.env' files
+
+# We don't want to upload our .exe or .dll files because these can be compiled by the user.
+# Additionally, we can include a compiled .exe/.dll's in a "release" so the user can download the finished project without needing to compile it themselves.
+# reference: https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository
+
+bin/
+obj/
