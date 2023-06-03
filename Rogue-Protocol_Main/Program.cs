@@ -16,6 +16,8 @@ List<string> emails = new List<string>() {
 // error(1) means that the program couldn't find the IP or command.
 List<string> errors = new List<string>() { "error(1)" };
 
+Console.WriteLine("Rogue-protocol v1.0\n\nWelcome to Rogue-protocol v1.0. Created by Asah Curtis. If you do not know the commands type help.");
+
 int money = 0;
 Random random = new Random();
 
